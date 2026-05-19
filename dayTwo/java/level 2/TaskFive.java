@@ -21,7 +21,7 @@ public class TaskFour {
         int largest = firstNumber;
 
 
-        if(largest > secondNumber) {
+        if(secondNumber > largest) {
         
            largest = secondNumber;
 
