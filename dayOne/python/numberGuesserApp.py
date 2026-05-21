@@ -12,7 +12,7 @@ while True:
 
         if (guess < 1 or guess > 100): 
 
-            System.out.print("Invalid number ")                    
+            print("Invalid number ")                    
 
         else:
 
